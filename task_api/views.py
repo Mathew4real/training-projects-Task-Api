@@ -12,3 +12,6 @@ class TasksView(mixins.ListModelMixin,mixins.CreateModelMixin,generics.GenericAP
     def get(self,reqeust):
         return self.list(reqeust)
     
+    def post(self,request):
+        return self.create(request)
+    
