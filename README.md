@@ -24,7 +24,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd core
 ```
 Cria um ambiente virtual
 ```bash
