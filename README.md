@@ -3,7 +3,7 @@
 
 O objetivo deste projeto é praticar o uso de Generic Views no Django Rest Framework, construindo uma API de tarefas (To-Do) funcional e organizada, que sirva como base para projetos maiores.
 
-Este projeto vai ser replicado com diferentes estilos de Views em cada APP APIView, GenericAPIView + mixins,Function-Based Views
+Este projeto vai ser replicado com diferentes estilos de Views em cada app APIView, GenericAPIView + mixins,Function-Based Views
 
 
 ## Funcionalidades
